@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "useUnknownInCatchVariables": false,
+        "module": "commonjs",
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    }
+}
